@@ -2,6 +2,8 @@
 
 Repositorio para el Control 2 del curso **Redes CC4303-1** del DCC UChile.
 
+Para los siguientes pasos, estar ubicado en la carpeta correspondiente.
+
 ## Actividad 3: Stop & Wait
 
 Para activar el servidor, desde la terminal:
