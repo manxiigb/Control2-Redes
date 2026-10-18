@@ -29,4 +29,6 @@ sudo tc qdisc add dev lo root netem loss 20.0% delay 0.5s
 sudo tc qdisc del dev lo root netem
 ```
 
+## Actividad 4: Control de congestión
 
+### Repetir pasos de Actividad 3.
